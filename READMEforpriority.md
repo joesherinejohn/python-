@@ -9,3 +9,4 @@ The dequeue method must remove the element with the highest priority first. If e
 The queue must also have a certain capacity, which is the maximum number of elements allowed in the data structure.
 
 If the queue is full and contains at least one element with a priority less than the priority of an element to be inserted, the enqueue method must insert the new element by replacing the existing element with the lowest priority in the queue. If the queue is full but doesn't contain elements with the lower priority, the enqueue method must do nothing. Similarly, the dequeue method must do nothing if the queue is empty.
+I have the solution of this in this repository.
