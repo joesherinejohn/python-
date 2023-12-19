@@ -8,3 +8,5 @@ steps:
 6.Detect collision with the paddle
 7.Detect when paddle misses
 8.Keep score
+
+refer ponggame.py, score_game.py, paddle_game.py,ball_game.py
